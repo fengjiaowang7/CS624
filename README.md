@@ -17,7 +17,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 
 # Part I 
-## Week 1 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 1 Overview and Database Review 2020/08/30 - 2020/09/06 [2020-08-30](date:) - [2020-09-06](enddate:)
 
 ## Week 2 Relational Database Management Systems (DBMSs) [2020-08-30](date:) - [2020-09-06](enddate:)
 
