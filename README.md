@@ -17,37 +17,37 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 
 # Part I 
-## Week 1 Overview and Database Review 2020/08/30 - 2020/09/06 [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 1 Overview and Database Review 2021/01/19 - 2021/01/24
 
-## Week 2 Relational Database Management Systems (DBMSs) [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
 
-## Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshif [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07 
 
-## Week 4 MapReduce [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 4 MapReduce 2021/02/08 - 2021/02/14
 
-## Week 5 MapReduce Today (Hive), Similarity Matching [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 5 MapReduce Today (Hive), Similarity Matching 2021/02/15 - 2021/02/21
 
-## Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28
 
-## Week 7 In-depth Spark Tutorial [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 7 In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
 
 <!---
 # Part II
 
-## Week 8 Advertising on the Web [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
 
-## Week 9 Clustering, Invited Talk [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 9 Clustering, Invited Talk 2021/03/15 - 2021/03/21
 
-## Week 10 Dimensionality Reduction [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 10 Dimensionality Reduction 2021/03/22 - 2021/03/28
 
-## Week 11 Large-Scale Machine Learning [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 11 Large-Scale Machine Learning 2021/03/29 - 2021/04/04
 
-## Week 12 Recommendation Systems [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 12 Recommendation Systems 2021/04/05 - 2021/04/11
 
-## Week 13 Social-Network Graphs Mining, Invited Talk [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 13 Social-Network Graphs Mining, Invited Talk 2021/04/12 - 2021/04/18
 
-## Week 14 Mining Data Streams [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 14 Mining Data Streams 2021/04/19 - 2021/04/25
 
-## Week 15 Final Review and Final project presentation [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 15 Final project presentation 2021/04/26 - 2021/04/28
 
 -->
