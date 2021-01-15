@@ -31,6 +31,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 ## Week 7 In-depth Spark Tutorial [2020-08-30](date:) - [2020-09-06](enddate:)
 
+<!---
 # Part II
 
 ## Week 8 Advertising on the Web [2020-08-30](date:) - [2020-09-06](enddate:)
@@ -49,3 +50,4 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 ## Week 15 Final Review and Final project presentation [2020-08-30](date:) - [2020-09-06](enddate:)
 
+-->
