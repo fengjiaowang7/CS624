@@ -19,7 +19,13 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 # Part I [2020-08-30](date:) [2020-10-01](enddate:)
 ## Overview and ADTs Review [2020-08-30](date:) [2020-09-06](enddate:)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
