@@ -17,7 +17,35 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 
 # Part I 
-## Week 1 Overview and ADTs Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 1 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
 
+## Week 2 Relational Database Management Systems (DBMSs) [2020-08-30](date:) - [2020-09-06](enddate:)
 
+## Week 3 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 4 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 5 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 6 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 7 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+# Part II
+
+## Week 8 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 9 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 10 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 11 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 12 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 13 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 14 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+
+## Week 15 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
 
