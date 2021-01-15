@@ -16,10 +16,10 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
  
 
 
-# Part I 
-## Week 1 Overview and Database Review 2021/01/19 - 2021/01/24
+## Part I 
+### Week 1 Overview and Database Review 2021/01/19 - 2021/01/24
 
-## Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
+### Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
 
 ## Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07 
 
