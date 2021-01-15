@@ -16,17 +16,8 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
  
 
 
-# Part I [2020-08-30](date:) [2020-10-01](enddate:)
-## Overview and ADTs Review [2020-08-30](date:) [2020-09-06](enddate:)
+# Part I 
+## Week 1 Overview and ADTs Review [2020-08-30](date:) [2020-09-06](enddate:)
 
 
-
-| Date | Overview    | Activities |
-| --------- | --------- | ----------- |
-| Week 1    | Coming into this course, you should already be familiar with<br>
-Abstract Data Types and with the way that C++ classes are used<br>
-to implement them. To be certain that everyone is on the same page, however, this | 88. [ ](lab) Add your personal intro in the Forums on Blackboard. 
-88. [ ](reading) Weiss, Ch 1 <br>
-88. [ ](event) [Orientation](doc:orientation.mmd) [2020-08-31T19:30](date:)<br>
-88. [ ](lab) [TBD](doc:programmingEnv) [2020-09-01](date:) |
 
