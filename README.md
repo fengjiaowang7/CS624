@@ -25,20 +25,14 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 | --------- | --------- | ----------- |
 | Week 1    | Coming into this course, you should already be familiar with
 Abstract Data Types and with the way that C++ classes are used
-to implement them.
-
-
-To be certain that everyone is on the same page, however, this
+to implement them. To be certain that everyone is on the same page, however, this
 module examines some critical information about ADTs, classes,
 templates in C++.  Most of this material should be review for
 you.  (If not, you can find more detailed treatments on the
 websites for the pre-requisite courses CS250 or CS333.)  But
 it may be some time since you have seen it, or, if you are a
 recent transfer to ODU, your prior courses might not have
-covered all of it.
-
-
-Because the C++ language is evolving, there may be some code
+covered all of it. Because the C++ language is evolving, there may be some code
 that looks unfamiliar simply because it takes advantage of the
 C++11 standard.    | 88. [ ](lab) Add your personal intro in the Forums on Blackboard. 
 88. [ ](reading) Weiss, Ch 1 
