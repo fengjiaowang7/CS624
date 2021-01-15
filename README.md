@@ -21,31 +21,31 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 ## Week 2 Relational Database Management Systems (DBMSs) [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 3 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshif [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 4 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 4 MapReduce [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 5 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 5 MapReduce Today (Hive), Similarity Matching [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 6 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 7 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 7 In-depth Spark Tutorial [2020-08-30](date:) - [2020-09-06](enddate:)
 
 # Part II
 
-## Week 8 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 8 Advertising on the Web [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 9 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 9 Clustering, Invited Talk [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 10 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 10 Dimensionality Reduction [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 11 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 11 Large-Scale Machine Learning [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 12 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 12 Recommendation Systems [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 13 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 13 Social-Network Graphs Mining, Invited Talk [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 14 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 14 Mining Data Streams [2020-08-30](date:) - [2020-09-06](enddate:)
 
-## Week 15 Overview and Database Review [2020-08-30](date:) - [2020-09-06](enddate:)
+## Week 15 Final Review and Final project presentation [2020-08-30](date:) - [2020-09-06](enddate:)
 
