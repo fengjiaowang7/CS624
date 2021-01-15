@@ -29,3 +29,8 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
+
+| Syntax    | Description |
+| --------- | ----------- |
+| Header    | Title       |
+| Paragraph | Text        |
