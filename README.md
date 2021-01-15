@@ -21,33 +21,33 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 ### Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
 
-## Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07 
+### Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07
 
-## Week 4 MapReduce 2021/02/08 - 2021/02/14
+### Week 4 MapReduce 2021/02/08 - 2021/02/14
 
-## Week 5 MapReduce Today (Hive), Similarity Matching 2021/02/15 - 2021/02/21
+### Week 5 MapReduce Today (Hive), Similarity Matching 2021/02/15 - 2021/02/21
 
-## Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28
+### Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28
 
-## Week 7 In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
+### Week 7 In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
 
 <!---
 # Part II
 
-## Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
+### Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
 
-## Week 9 Clustering, Invited Talk 2021/03/15 - 2021/03/21
+### Week 9 Clustering, Invited Talk 2021/03/15 - 2021/03/21
 
-## Week 10 Dimensionality Reduction 2021/03/22 - 2021/03/28
+### Week 10 Dimensionality Reduction 2021/03/22 - 2021/03/28
 
-## Week 11 Large-Scale Machine Learning 2021/03/29 - 2021/04/04
+### Week 11 Large-Scale Machine Learning 2021/03/29 - 2021/04/04
 
-## Week 12 Recommendation Systems 2021/04/05 - 2021/04/11
+### Week 12 Recommendation Systems 2021/04/05 - 2021/04/11
 
-## Week 13 Social-Network Graphs Mining, Invited Talk 2021/04/12 - 2021/04/18
+### Week 13 Social-Network Graphs Mining, Invited Talk 2021/04/12 - 2021/04/18
 
-## Week 14 Mining Data Streams 2021/04/19 - 2021/04/25
+### Week 14 Mining Data Streams 2021/04/19 - 2021/04/25
 
-## Week 15 Final project presentation 2021/04/26 - 2021/04/28
+### Week 15 Final project presentation 2021/04/26 - 2021/04/28
 
 -->
