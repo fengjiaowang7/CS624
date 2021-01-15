@@ -21,7 +21,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 
 
-| Overview    | Activities |
-| --------- | ----------- |
-| Header    | Title       |
-| Paragraph | Text        |
+| Date | Overview    | Activities |
+| --------- | --------- | ----------- |
+| Header    | Header    | Title       |
+| Paragraph | Paragraph | Text        |
