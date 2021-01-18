@@ -21,8 +21,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 
 Do the survey: [help me learn more about your background to facilitate teaching](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_zO88XZ1Hz5rwM8hJgdjDdtuMmPfH9LVQvYsJ3Zg/viewform?vc=0&c=0&w=1&flr=0&gxids=7628)
 
-<!---
-# Part II
+
 ### Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
 
 ### Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07
@@ -36,6 +35,7 @@ Do the survey: [help me learn more about your background to facilitate teaching]
 ### Week 7 In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
 
 
+## Part II
 
 ### Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
 
@@ -53,4 +53,5 @@ Do the survey: [help me learn more about your background to facilitate teaching]
 
 ### Week 15 Final project presentation 2021/04/26 - 2021/04/28
 
+<!---
 -->
