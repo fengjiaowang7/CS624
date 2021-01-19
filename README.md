@@ -37,7 +37,7 @@ Final project proposal due.
 ### Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28
 
 ### Week 7 In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
-
+Tuesday 2021/03/02 reading day, no class 
 
 ## Part II
 
