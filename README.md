@@ -27,10 +27,12 @@ Do the survey ASAP: [survey](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_
 ### Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
 
 ### Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07
+Do the homework: TBD
 
 ### Week 4 MapReduce 2021/02/08 - 2021/02/14
 
 ### Week 5 MapReduce Today (Hive), Similarity Matching 2021/02/15 - 2021/02/21
+Final project proposal due.
 
 ### Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28
 
@@ -40,12 +42,15 @@ Do the survey ASAP: [survey](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_
 ## Part II
 
 ### Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
+Do the homework: TBD
 
 ### Week 9 Clustering, Invited Talk 2021/03/15 - 2021/03/21
 
 ### Week 10 Dimensionality Reduction 2021/03/22 - 2021/03/28
+Do the homework: TBD
 
 ### Week 11 Large-Scale Machine Learning 2021/03/29 - 2021/04/04
+Final project Milestone report due.
 
 ### Week 12 Recommendation Systems 2021/04/05 - 2021/04/11
 
@@ -54,6 +59,7 @@ Do the survey ASAP: [survey](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_
 ### Week 14 Mining Data Streams 2021/04/19 - 2021/04/25
 
 ### Week 15 Final project presentation 2021/04/26 - 2021/04/28
+Final project report Due
 
 <!---
 -->
