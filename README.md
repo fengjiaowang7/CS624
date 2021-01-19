@@ -2,6 +2,8 @@
 
 This repository serves as course website for CS624 Data Analytics and Big Data. 
 
+"Course Syllabus"
+
 ## Welcome to CS624
  * This course is divided into two parts. Each part contains multiple topics including some homeworks and quizzes.
  * Each part consists of a series of activities. There include attending live lecture, reading assignment material, taking quizzes, and doing homeworks and projects.
