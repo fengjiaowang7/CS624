@@ -21,7 +21,7 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
 ## Part I 
 ### Week 1 Overview and Database Review 2021/01/19 - 2021/01/24
 
-Do the survey ASAP: [survey](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_zO88XZ1Hz5rwM8hJgdjDdtuMmPfH9LVQvYsJ3Zg/viewform?vc=0&c=0&w=1&flr=0&gxids=7628)
+Do the survey ASAP: [survey](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_zO88XZ1Hz5rwM8hJgdjDdtuMmPfH9LVQvYsJ3Zg/viewform?vc=0&c=0&w=1&flr=0&gxids=7628)  
 Read: [Predictive analytics in Wikipedia](https://en.wikipedia.org/wiki/Predictive_analytics)
 
 
