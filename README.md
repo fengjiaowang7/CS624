@@ -60,7 +60,7 @@ Final project Milestone report due.
 ### Week 14 Mining Data Streams 2021/04/19 - 2021/04/25
 
 ### Week 15 Final project presentation 2021/04/26 - 2021/04/28
-Final project report Due
+Final project report due
 
 <!---
 -->
