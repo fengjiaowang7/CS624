@@ -16,6 +16,11 @@ This repository serves as course website for CS624 Data Analytics and Big Data.
  * HAVE A SCHEDULE
  * IF YOU DON'T UNDERSTAND SOMETHING, ASK QUESTIONS.
  
+## Recommended Textbook
+The recommended text for this course is Mining of Massive Datasets,  Jure Leskovec, Anand Rajaraman, and Jeffrey D. Ullman, 2014, Cambridge University Press.  
+**Please visit http://www.mmds.org/ for details on the text and how you can get access to an online version of the text.**  
+As this course is covering new and very fast changing technologies, it also relies heavily on the material available on the Internet.  The pointers for reading material on the Internet is listed under each week schedule as follows.
+
 
 
 ## Part I 
