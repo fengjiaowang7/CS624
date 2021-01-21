@@ -8,6 +8,9 @@ Instructor's office hours: Tuesday 12:15-1:15pm, Thursday 1:30-2:30pm.
 TA's office hours: Monday/Wednesday 10:00-11:00am.  
 For the zoom link for these meetings, please check Blackboard's announcements.
 
+Good resource to learn SQL:
+[SQL Tutorial](https://www.w3schools.com/sql/sql_select.asp)
+
 ## Welcome to CS624
  * This course is divided into two parts. Each part contains multiple topics including some homeworks and quizzes.
  * Each part consists of a series of activities. There include attending live lecture, reading assignment material, taking quizzes, and doing homeworks and projects.
