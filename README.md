@@ -33,10 +33,10 @@ As this course is covering new and very fast changing technologies, it also reli
 ## Part I 
 ### Week 1 Overview and Database Review 2021/01/19 - 2021/01/24
 
-Lecture 1: Course Overview. [slides](https://github.com/fengjiaowang7/CS624/tree/main/slides) 
-Lecture 2: Database Review. slides: check Blackboard/Modules
-Do the survey ASAP: [survey](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_zO88XZ1Hz5rwM8hJgdjDdtuMmPfH9LVQvYsJ3Zg/viewform?vc=0&c=0&w=1&flr=0&gxids=7628)  
-Read: [Predictive analytics in Wikipedia](https://en.wikipedia.org/wiki/Predictive_analytics)
+Lecture 1: Course Overview. [slides](https://github.com/fengjiaowang7/CS624/tree/main/slides)  
+Lecture 2: Database Review. slides: check Blackboard/Modules  
+Do the survey ASAP: [survey](https://docs.google.com/forms/d/e/1FAIpQLSe1CQoQ6b_zO88XZ1Hz5rwM8hJgdjDdtuMmPfH9LVQvYsJ3Zg/viewform?vc=0&c=0&w=1&flr=0&gxids=7628)   
+Read: [Predictive analytics in Wikipedia](https://en.wikipedia.org/wiki/Predictive_analytics) 
 
 
 ### Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
