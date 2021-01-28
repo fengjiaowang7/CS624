@@ -51,7 +51,7 @@ Do the homework: TBD
 ### Week 4 MapReduce 2021/02/08 - 2021/02/14
 
 ### Week 5 MapReduce Today (Hive), Similarity Matching 2021/02/15 - 2021/02/21
-Final project proposal due.
+Final project proposal due. 
 
 ### Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28
 
