@@ -41,9 +41,9 @@ Read: [Predictive analytics in Wikipedia](https://en.wikipedia.org/wiki/Predicti
 
 ### Week 2 Relational Database Management Systems (DBMSs) 2021/01/25 - 2021/01/31
 
-Lecture 1: Design of a relational DBMS. slides: check Blackboard/Modules  
-Lecture 2: Relational Operator Algorithms.      
-**Quiz1 available in Blackboard. Due date is 1/29/2021 11:59:59pm EST.**  
+Lecture 1: Design of a relational DBMS. slides: check Blackboard/Modules    
+Lecture 2: Relational Operator Algorithms. check Blackboard/Modules        
+**Quiz1 available in Blackboard. Due date is 1/29/2021 11:59:59pm EST.**   
 
 ### Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07
 
