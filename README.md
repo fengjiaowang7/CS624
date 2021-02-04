@@ -46,6 +46,8 @@ Lecture 2: Relational Operator Algorithms. check Blackboard/Modules
 **Quiz1 available in Blackboard. Due date is 1/29/2021 11:59:59pm EST.**   
 
 ### Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07
+Lecture 1: Algorithms behind physical Operator in Physical query plan. check Blackboard/Modules  
+Lecture 2: Quiz 1 review, more SQL practices.  
 
 ### Week 4 MapReduce 2021/02/08 - 2021/02/14  
 Do the homework: TBD  
