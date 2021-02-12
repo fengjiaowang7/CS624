@@ -45,17 +45,19 @@ Lecture 1: Design of a relational DBMS. slides: check Blackboard/Modules
 Lecture 2: Relational Operator Algorithms. check Blackboard/Modules        
 **Quiz1 available in Blackboard. Due date is 1/29/2021 11:59:59pm EST.**   
 
-### Week 3 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/01 - 2021/02/07
+### Week 3 Relational Database Management Systems (DBMSs)+SQL 2021/02/01 - 2021/02/07
 Lecture 1: Algorithms behind physical Operator in Physical query plan. check Blackboard/Modules  
 Lecture 2: Quiz 1 review, more SQL practices.  
 
-### Week 4 MapReduce 2021/02/08 - 2021/02/14  
-Do the homework: TBD  
+### Week 4 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/08 - 2021/02/14  
+homework1 published on Feb 10th, due on Feb 19th 11:59:59pm (EST)   
 
 ### Week 5 MapReduce Today (Hive), Similarity Matching 2021/02/15 - 2021/02/21
-Final project proposal due. 
+Do the homework1: Due Feb 19th 11:59:59pm (EST) 
 
-### Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28
+### Week 6 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/02/22 - 2021/02/28 
+Finial Final Project Proposal: Due Feb 28th 11:59:59pm (EST)
+
 
 ### Week 7 In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
 Tuesday 2021/03/02 reading day, no class 
