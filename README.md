@@ -52,22 +52,24 @@ Lecture 2: Quiz 1 review, more SQL practices.
 ### Week 4 Parallel shared-nothing DBMSs Cloud Deployments (Amazon Redshift) 2021/02/08 - 2021/02/14  
 Lecture 1: Parallel query execution. check Blackboard/Modules  
 Lecture 2: Final project idea demo. Amazon Redshift. check Blackboard/Modules  
-homework1 published on Feb 10th, due on Feb 19th 11:59:59pm (EST)   
+homework1 published on Wed Feb 10th, due on Feb 19th 11:59:59pm (EST)   
 
 ### Week 5 MapReduce 2021/02/15 - 2021/02/21
-Do the homework1: Due Feb 19th 11:59:59pm (EST) 
+Do the homework1: Due Fri Feb 19th 11:59:59pm (EST) 
 
 ### Week 6 MapReduce Today (Hive), Similarity Matching 2021/02/22 - 2021/02/28 
-Finial Final Project Proposal: Due Feb 28th 11:59:59pm (EST)
+Finial Final Project Proposal: Due Sun Feb 28th 11:59:59pm (EST)
 
 
 ### Week 7 In-memory Analytics (Spark & SparkSQL, MLlib), In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
-Tuesday 2021/03/02 reading day, no class 
+Tuesday 2021/03/02 reading day, no class  
+Midterm March 4th and 5th in Blackboard  
+homework2 publish on Wed March 3rd  
 
 ## Part II
 
 ### Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
-Do the homework: TBD
+homework2: Due Friday March 12th 11:59:59pm (EST)
 
 ### Week 9 Clustering, Invited Talk 2021/03/15 - 2021/03/21
 
