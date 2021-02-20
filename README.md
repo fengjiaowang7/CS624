@@ -55,16 +55,16 @@ Lecture 2: Final project idea demo. Amazon Redshift. check Blackboard/Modules
 homework1 published on Wed Feb 10th, due on Feb 19th 11:59:59pm (EST)   
 
 ### Week 5 MapReduce 2021/02/15 - 2021/02/21
-Do the homework1: Due Fri Feb 19th 11:59:59pm (EST) 
+Do the homework1: Due Fri 2/19 11:59:59pm (EST) 
 
 ### Week 6 MapReduce Today (Hive), Similarity Matching 2021/02/22 - 2021/02/28 
-Finial Final Project Proposal: Due Sun Feb 28th 11:59:59pm (EST)
+Finial Final Project Proposal: Due Sun 2/28 11:59:59pm (EST)
 
 
 ### Week 7 In-memory Analytics (Spark & SparkSQL, MLlib), In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
 Tuesday 2021/03/02 reading day, no class  
-Midterm March 4th and 5th in Blackboard  
-homework2 publish on Wed March 3rd  
+Midterm 3/4 and 3/5 in Blackboard  
+homework2 publish on Wed 3/3  
 
 ## Part II
 
