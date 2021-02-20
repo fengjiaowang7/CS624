@@ -69,7 +69,7 @@ homework2 publish on Wed 3/3
 ## Part II
 
 ### Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
-homework2: Due Friday March 12th 11:59:59pm (EST)
+homework2: Due Friday 3/12 11:59:59pm (EST)
 
 ### Week 9 Clustering, Invited Talk 2021/03/15 - 2021/03/21
 
