@@ -66,15 +66,15 @@ Final Project Proposal: Due Sun 2/28 11:59:59pm (EST)
 
 ### Week 7 Similarity Matching 2021/03/01 - 2021/03/07 
 **Tuesday 2021/03/02 reading day, no class**     
-Midterm 3/4 and 3/5 in Blackboard  
+Midterm on 3/4 and 3/5 in Blackboard  
 homework2 publish on Wed 3/3  
-
-## Part II
 
 ### Week 8 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/03/08 - 2021/03/14
 homework2: Due Friday 3/12 11:59:59pm (EST)
 
 ### Week 9 In-depth Spark Tutorial 2021/03/15 - 2021/03/21
+
+## Part II
 
 ### Week 10 Advertising on the Web, Recommendation Systems 2021/03/22 - 2021/03/28
 Do the homework: TBD
