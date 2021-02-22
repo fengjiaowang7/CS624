@@ -55,25 +55,28 @@ Lecture 2: Final project idea demo. Amazon Redshift. check Blackboard/Modules
 homework1 published on Wed Feb 10th, due on Feb 19th 11:59:59pm (EST)   
 
 ### Week 5 MapReduce 2021/02/15 - 2021/02/21
-Do the homework1: Due Fri 2/19 11:59:59pm (EST) 
+Lecture 1 and 2: Mapreduce. check Blackboard/Modules.  
+Reading: Mining of Massive Datasets. Chapter 2, sections 2.1-2.3.  
+Do the homework1: Due Fri 2/19 11:59:59pm (EST)   
 
 ### Week 6 MapReduce Today (Hive), Similarity Matching 2021/02/22 - 2021/02/28 
+Reading: Mining of Massive Datasets. Chapter 3, sections 3.1-3.5. 
 Final Project Proposal: Due Sun 2/28 11:59:59pm (EST)
 
 
-### Week 7 In-memory Analytics (Spark & SparkSQL, MLlib), In-depth Spark Tutorial 2021/03/01 - 2021/03/07 
-Tuesday 2021/03/02 reading day, no class  
+### Week 7 Similarity Matching Continue 2021/03/01 - 2021/03/07 
+**Tuesday 2021/03/02 reading day, no class**     
 Midterm 3/4 and 3/5 in Blackboard  
 homework2 publish on Wed 3/3  
 
 ## Part II
 
-### Week 8 Advertising on the Web 2021/03/08 - 2021/03/14
+### Week 8 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/03/08 - 2021/03/14
 homework2: Due Friday 3/12 11:59:59pm (EST)
 
-### Week 9 Clustering, Invited Talk 2021/03/15 - 2021/03/21
+### Week 9 In-depth Spark Tutorial 2021/03/15 - 2021/03/21
 
-### Week 10 Dimensionality Reduction 2021/03/22 - 2021/03/28
+### Week 10 Advertising on the Web, Clustering, Dimensionality Reduction 2021/03/22 - 2021/03/28
 Do the homework: TBD
 
 ### Week 11 Large-Scale Machine Learning 2021/03/29 - 2021/04/04
@@ -81,7 +84,7 @@ Final project Milestone report due.
 
 ### Week 12 Recommendation Systems 2021/04/05 - 2021/04/11
 
-### Week 13 Social-Network Graphs Mining, Invited Talk 2021/04/12 - 2021/04/18
+### Week 13 Social-Network Graphs Mining 2021/04/12 - 2021/04/18
 
 ### Week 14 Mining Data Streams 2021/04/19 - 2021/04/25
 
