@@ -71,11 +71,11 @@ Take home midterm on 3/4 and 3/5
 Published homework2 publish on Wed 3/3. Homework2 due Sun 3/14 11:59pm (EST).    
 
 ### Week 8 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/03/08 - 2021/03/14
-Reading: Mining of Massive Datasets. Chapter 2, sections 2.4   
-homework2: Due Sun 3/14 11:59:59pm (EST). 
+Reading: Mining of Massive Datasets. Chapter 2, sections 2.4     
 
 ### Week 9 In-depth Spark Tutorial 2021/03/15 - 2021/03/21
-Publish homework3 on Wed 3/24     
+homework2: Due Sun 3/16 11:59:59pm (EST)   
+Publish homework3 on Wed 3/24       
 
 ## Part II
 
