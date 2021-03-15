@@ -65,21 +65,20 @@ Final Project Proposal: Due Sun 2/28 11:59:59pm (EST)
 
 
 ### Week 7 Hive hands-on session 2021/03/01 - 2021/03/07 
-**Tuesday 2021/03/02 reading day, no class, no office hour**  
-Reading: Mining of Massive Datasets. Chapter 3, sections 3.4,3.5  
+**Tuesday 2021/03/02 reading day, no class, no office hour**    
 Take home midterm on 3/4 and 3/5  
 Published homework2 publish on Wed 3/3. Homework2 due Sun 3/14 11:59pm (EST).    
 
 ### Week 8 Similarity matching part II, Spark 2021/03/08 - 2021/03/14
+Reading: Mining of Massive Datasets. Chapter 3, sections 3.4,3.5    
 Reading: Mining of Massive Datasets. Chapter 2, sections 2.4     
 
-### Week 9 In-depth Spark Tutorial(Spark & SparkSQL, MLlib)  2021/03/15 - 2021/03/21
+### Week 9 In-depth Spark Tutorial(Spark & SparkSQL, MLlib), Recommendation Systems  2021/03/15 - 2021/03/21
 homework2: Due Tue 3/16 11:59:59pm (EST)    
-  
 
 ## Part II
 
-### Week 10 Advertising on the Web, Recommendation Systems 2021/03/22 - 2021/03/28
+### Week 10 Classification, Supervised Learning 2021/03/22 - 2021/03/28
 Publish homework3 on Wed 3/22       
 
 ### Week 11 Clustering, Dimensionality Reduction 2021/03/29 - 2021/04/04
@@ -87,9 +86,9 @@ Final project Milestone report due.
 
 ### Week 12 Large-Scale Machine Learning 2021/04/05 - 2021/04/11
 
-### Week 13 Social-Network Graphs Mining 2021/04/12 - 2021/04/18
+### Week 13 Neural Nets and Deep Learning 2021/04/12 - 2021/04/18
 
-### Week 14 Mining Data Streams 2021/04/19 - 2021/04/25
+### Week 14 Social-Network Graphs Mining 2021/04/19 - 2021/04/25
 
 ### Week 15 Final project presentation 2021/04/26 - 2021/04/28
 Final project report due
