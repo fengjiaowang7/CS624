@@ -74,19 +74,26 @@ Reading: Mining of Massive Datasets. Chapter 3, sections 3.4,3.5
 Reading: Mining of Massive Datasets. Chapter 2, sections 2.4     
 
 ### Week 9 In-depth Spark Tutorial(Spark & SparkSQL, MLlib), Recommendation Systems  2021/03/15 - 2021/03/21
-homework2: Due Tue 3/16 11:59:59pm (EST)    
+homework2: Due Tue 3/16 11:59:59pm (EST)
+Quiz 2 publish on Tue 3/16, due on Thu 3/18   
+Publish homework3 on Fri 3/19
 
 ## Part II
 
 ### Week 10 Classification, Supervised Learning 2021/03/22 - 2021/03/28
-Publish homework3 on Wed 3/22       
+Homework3 Due Sun 3/28       
 
 ### Week 11 Clustering, Dimensionality Reduction 2021/03/29 - 2021/04/04
 Final project Milestone report due.  
 
 ### Week 12 Large-Scale Machine Learning 2021/04/05 - 2021/04/11
+Quiz 3   
 
 ### Week 13 Neural Nets and Deep Learning 2021/04/12 - 2021/04/18
+Quiz 4   
+
+### Week 14 Social-Network Graphs Mining 2021/04/19 - 2021/04/25
+Quiz 5    
 
 ### Week 14 Social-Network Graphs Mining 2021/04/19 - 2021/04/25
 
