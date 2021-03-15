@@ -77,6 +77,7 @@ Reading: Mining of Massive Datasets. Chapter 2, sections 2.4
 homework2: Due Tue 3/16 11:59:59pm (EST)
 Quiz 2 publish on Tue 3/16, due on Thu 3/18   
 Publish homework3 on Fri 3/19
+Reading: Mining of Massive Datasets. Chapter 9, sections 9.1,9.2,9.3     
 
 ## Part II
 
