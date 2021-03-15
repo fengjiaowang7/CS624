@@ -59,28 +59,28 @@ Lecture 1 and 2: Mapreduce. check Blackboard/Modules.
 Reading: Mining of Massive Datasets. Chapter 2, sections 2.1-2.3   
 Do the homework1: Due Fri 2/19 11:59:59pm (EST)   
 
-### Week 6 MapReduce Today (Hive), Similarity Matching 2021/02/22 - 2021/02/28 
+### Week 6 MapReduce Today (Hive), Similarity Matching part I 2021/02/22 - 2021/02/28 
 Reading: Mining of Massive Datasets. Chapter 1, section 1.3.2 and Chapter 3, sections 3.1-3.3  
 Final Project Proposal: Due Sun 2/28 11:59:59pm (EST)
 
 
-### Week 7 Similarity Matching 2021/03/01 - 2021/03/07 
+### Week 7 Hive hands-on session 2021/03/01 - 2021/03/07 
 **Tuesday 2021/03/02 reading day, no class, no office hour**  
 Reading: Mining of Massive Datasets. Chapter 3, sections 3.4,3.5  
 Take home midterm on 3/4 and 3/5  
 Published homework2 publish on Wed 3/3. Homework2 due Sun 3/14 11:59pm (EST).    
 
-### Week 8 In-memory Analytics (Spark & SparkSQL, MLlib) 2021/03/08 - 2021/03/14
+### Week 8 Similarity matching part II, Spark 2021/03/08 - 2021/03/14
 Reading: Mining of Massive Datasets. Chapter 2, sections 2.4     
 
-### Week 9 In-depth Spark Tutorial 2021/03/15 - 2021/03/21
-homework2: Due Sun 3/16 11:59:59pm (EST)   
-Publish homework3 on Wed 3/24       
+### Week 9 In-depth Spark Tutorial(Spark & SparkSQL, MLlib)  2021/03/15 - 2021/03/21
+homework2: Due Tue 3/16 11:59:59pm (EST)    
+  
 
 ## Part II
 
 ### Week 10 Advertising on the Web, Recommendation Systems 2021/03/22 - 2021/03/28
-homework3: due Sun 4/4.  
+Publish homework3 on Wed 3/22       
 
 ### Week 11 Clustering, Dimensionality Reduction 2021/03/29 - 2021/04/04
 Final project Milestone report due.  
