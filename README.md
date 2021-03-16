@@ -74,7 +74,7 @@ Reading: Mining of Massive Datasets. Chapter 3, sections 3.4,3.5
 Reading: Mining of Massive Datasets. Chapter 2, sections 2.4     
 
 ### Week 9 In-depth Spark Tutorial(Spark & SparkSQL, MLlib), Recommendation Systems  2021/03/15 - 2021/03/21
-homework2: Due Tue 3/16 11:59:59pm (EST)
+homework2: Due Tue 3/16 11:59:59pm (EST)   
 Quiz 2 publish on Tue 3/16, due on Sunday 3/21   
 Reading: Mining of Massive Datasets. Chapter 9, sections 9.1,9.2,9.3     
 
