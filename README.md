@@ -94,6 +94,7 @@ Homework 3 due Sunday 4/4
 Final project Milestone report due Friday 4/9     
 
 ### Week 13 Neural Nets and Deep Learning 2021/04/12 - 2021/04/18  
+Quiz 3    
 
 ### Week 14 Social-Network Graphs Mining 2021/04/19 - 2021/04/25
 Quiz 4    
