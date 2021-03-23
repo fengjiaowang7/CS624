@@ -86,7 +86,8 @@ Watching videos on Intro to Data Science and Machine Learning Goals (overview)
 https://www.youtube.com/watch?v=FsSrzmRawUg  
 https://www.youtube.com/watch?v=OAB2bHsee9Y   
 https://www.youtube.com/watch?v=ofM8LE9Zeaw   
-https://www.youtube.com/watch?v=CBHaInynRzU    
+https://www.youtube.com/watch?v=CBHaInynRzU  
+Logistic Regression Notes by Andrew Ng. https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf   
 
 ### Week 11 Clustering, Dimensionality Reduction 2021/03/29 - 2021/04/04
 Homework 3 due Sunday 4/4   
