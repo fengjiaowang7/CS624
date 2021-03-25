@@ -91,6 +91,7 @@ Logistic Regression Notes by Andrew Ng. https://see.stanford.edu/materials/aimlc
 
 ### Week 11 Clustering, Dimensionality Reduction 2021/03/29 - 2021/04/04
 Homework 3 due Wednesday 3/31 (4/2 for part 2 only)  
+Final project Milestone report guideline, publish on 3/31   
 
 ### Week 12 Large-Scale Machine Learning 2021/04/05 - 2021/04/11
 Final project Milestone report due Friday 4/9   
