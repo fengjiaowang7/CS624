@@ -89,17 +89,17 @@ https://www.youtube.com/watch?v=ofM8LE9Zeaw
 https://www.youtube.com/watch?v=CBHaInynRzU  
 Logistic Regression Notes by Andrew Ng. https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf   
 
-### Week 11 Clustering, Dimensionality Reduction 2021/03/29 - 2021/04/04
+### Week 11 Clustering 2021/03/29 - 2021/04/04
 Homework 3 due Wednesday 3/31 (4/2 for part 2 only)  
 Final project Milestone report guideline, publish on 3/31   
 
-### Week 12 Large-Scale Machine Learning 2021/04/05 - 2021/04/11
-Final project Milestone report due Friday 4/9   
+### Week 12 Dimensionality Reduction 2021/04/05 - 2021/04/11
+Final project Milestone report due Wednesday 4/7   
 
-### Week 13 Neural Nets and Deep Learning 2021/04/12 - 2021/04/18  
+### Week 13 Large-Scale Machine Learning 2021/04/12 - 2021/04/18  
 Quiz 3 Publish on Wednesday 4/14, Due Friday 4/16    
 
-### Week 14 Social-Network Graphs Mining 2021/04/19 - 2021/04/25
+### Week 14 Neural Nets and Deep Learning 2021/04/19 - 2021/04/25
 Quiz 4 Publish on Monday 4/19, Due Wednesday 4/21        
 
 ### Week 14 Diagosing Machine Learning System, Final project presentation part I 2021/04/19 - 2021/04/25       
