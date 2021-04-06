@@ -94,7 +94,7 @@ Homework 3 due Wednesday 3/31 (4/2 for part 2 only)
 Final project Milestone report guideline, publish on 4/1   
 
 ### Week 12 Dimensionality Reduction 2021/04/05 - 2021/04/11
-Final project Milestone report due Wednesday 4/9   
+Final project Milestone report due Friday 4/9   
 
 ### Week 13 Large-Scale Machine Learning 2021/04/12 - 2021/04/18  
 Quiz 3 Publish on Wednesday 4/14, Due Friday 4/16    
