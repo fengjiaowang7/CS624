@@ -97,10 +97,7 @@ Final project Milestone report guideline, publish on 4/1
 Final project Milestone report due Friday 4/9   
 
 ### Week 13 Large-Scale Machine Learning 2021/04/12 - 2021/04/18  
-   
-
-### Week 14 Neural Nets and Deep Learning 2021/04/19 - 2021/04/25
-       
+  
 
 ### Week 14 Diagosing Machine Learning System, Final project presentation part I 2021/04/19 - 2021/04/25       
 
